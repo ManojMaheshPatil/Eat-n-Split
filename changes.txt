@@ -1,5 +1,0 @@
-In app.js
-
-I have use handleSetFriend instead of handleAddFriend in line 40
-I have used newFriend instead of friend in line 40 and 41
-I have used onSetFriend instead of onAddFriend in line 47 and 92 and 
